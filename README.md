@@ -2,12 +2,22 @@
 
 Questions of ex 2 : 
 
-- for the package "before inversion of control " : convert the given classes according to the single responsibility --> answer is package after inversion of control . ( solved  ) 
+The example 2 has two packages : Packages related to inversion of control ( Not solved by professor ) and packages related to Single Resp (Solved) 
+
+The lab questions are as following : 
+
+1) convert the given class (SingleResponsibilityViolation file in LMS with 2 classes in it )  according to the single responsibility.
+
+2) convert the design given ( BeforeInversionOfControl file in LMS ) to a service based ioc
+Car should take RepairService  test it . ( not solved in class )
 
 
-- for the package "single responsibility violation : 1) convert the design given to a service based ioc .Car should take RepairService and test it (Professor didnt solve )
+3 ) implement an open close that filters an array with different  filters also for the same package ( BeforeInversionOfControl file in LMS ) not solved. 
 
-  
-- 2) Implement an open close that filters an array with different  filters. ( Professor didnt solve ) 
+
+
+--- 
+
+note : for example SingleResponsibilityViolation file in lms has two classes which has been written separately each class in a file in netbeans . 
 
   
